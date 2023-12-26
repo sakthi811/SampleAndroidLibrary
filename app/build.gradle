@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.droiddude.apps.sampleandroidlibrary'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.droiddude.apps.sampleandroidlibrary"
